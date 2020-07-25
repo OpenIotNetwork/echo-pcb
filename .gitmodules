@@ -1,0 +1,4 @@
+[submodule "libs/pycom"]
+	path = libs/pycom
+	url = https://github.com/pycom/footprints.git
+	branch = master

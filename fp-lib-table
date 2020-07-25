@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pycom)(type KiCad)(uri ${KIPRJMOD}/libs/pycom/Pycom.pretty)(options "")(descr ""))
+)
